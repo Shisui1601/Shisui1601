@@ -1,3 +1,9 @@
+<div align="center"> 
+<h1 align="center">Hey, I´m <a  href="https://github.com/Shisui1601">Edison Aguero</a>.</h1>   
+</div>
+
+<img src="https://github.com/user-attachments/assets/d93caa57-3c69-4c78-bddd-6a442c0cb351">
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
