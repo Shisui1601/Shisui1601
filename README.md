@@ -4,6 +4,10 @@
 
 <img src="https://github.com/user-attachments/assets/d93caa57-3c69-4c78-bddd-6a442c0cb351">
 
+<div align="center">
+<h3 align="center">Specialist in the optimization and correct functioning of applications 🛠. Continuously improving projects and learning new technologies to implement📔.</h3>
+</div>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
